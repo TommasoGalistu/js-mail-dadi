@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+main{
+    width: 100%;
+    
+    text-align: center;
+}
+
+section{
+    width: 70%;
+    margin: auto;
+}
+.punteggi{
+    margin: 3rem;
+}
+
+
+p, span{
+    
+    font-size: 3rem;
+
+}

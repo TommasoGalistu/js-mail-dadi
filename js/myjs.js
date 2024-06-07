@@ -1,5 +1,5 @@
 let contMessaggio = document.querySelector('.contMessaggio');
-let buttn = document.querySelector('button');
+let buttn = document.querySelector('.contrEmail');
 let textInput = document.querySelector('input');
 
 // array contenenti tutte le email
@@ -32,3 +32,5 @@ buttn.addEventListener('click', () =>{
     }
     
 })
+
+
