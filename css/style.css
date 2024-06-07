@@ -21,3 +21,13 @@ section{
 .secondoEsercizio{
     height: 10%;
 }
+
+.messaggioPositivo{
+    color: green;
+}
+.messaggioNegativo{
+    color: red;
+}
+.inserisciEmail{
+    color: black;
+}
